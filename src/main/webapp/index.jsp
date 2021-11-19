@@ -5,7 +5,7 @@
 <body style="text-align: center">
 <h1>Congratulations satyananii!</h1>
 <img src="flower.jpg">
-<img src="megastar.jpg">
+<img src="baby.jpg">
 
 <h2>You have successfully launched your Instance!megastar.com!</h2>
 
